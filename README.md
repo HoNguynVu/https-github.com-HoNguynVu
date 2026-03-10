@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ho Nguyen Vu </h1>
+<h1 align="center">Hi, I'm Ho Nguyen Vu </h1>
 
 <h3 align="center">Backend Engineer</h3>
 
