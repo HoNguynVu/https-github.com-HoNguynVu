@@ -10,10 +10,12 @@
 ---
 
 ### About Me
+I am a 3rd-year Software Engineering student at the University of Information Technology (UIT, VNU-HCM) with a current GPA of 8.84/10. Throughout my studies, I have been a two-time recipient of the Academic Merit Scholarship (ranking in the top 6-8% of my faculty).
 
-I am a 3rd-year Software Engineering student at the University of Information Technology (UIT, VNU-HCM) with a current GPA of 8.84/10. Throughout my studies, I have been a two-time recipient of the Academic Merit Scholarship (ranking in the top 6-8% of my faculty).<br/>
-I have a strong foundation in back-end development, design patterns, and software development lifecycles (Agile, Scrum, Waterfall).<br/>
-Currently, I am expanding my expertise by diving into DevOps, Microservices, Machine Learning, and Deep Learning.<br/>
+I have a strong foundation in back-end development, design patterns, and software development lifecycles (Agile, Scrum, Waterfall).
+
+Currently, I am expanding my expertise by diving into DevOps, Microservices, Machine Learning, and Deep Learning.
+
 I am eager to bring my skills to a professional environment, taking ownership of end-to-end projects—from system design and implementation to operation and maintenance.
 ---
 
